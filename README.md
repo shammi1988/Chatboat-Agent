@@ -23,3 +23,10 @@ This notebook demonstrates how to use the Google Gemini API and Python to build 
 1. Few-Shot Prompting (for persona)
 2. Function Calling (for data retrieval)
 3. Structured Output (for request categorization)
+
+## Technology Stack
+
+*   **Language:** Python 3.x
+*   **AI Model:** Google Gemini Pro (via `gemini-1.5-flash-latest` model endpoint)
+*   **Core Library:** `google-generativeai` Python SDK
+*   **Environment:** Jupyter Notebook (`.ipynb`)
