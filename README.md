@@ -1,4 +1,4 @@
-# Chatboat-Agent
+# Customer support-Agent
 # **Building a Customer Support Agent Foundation with Gemini**
 ## Use Case / Problem:
 
